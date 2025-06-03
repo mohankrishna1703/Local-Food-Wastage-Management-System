@@ -89,5 +89,3 @@ Once the application is running:
 * **Key Insights:** Explore various charts and tables that provide analytical views of the food data.
 
 ---
-
-## 📂 Project Structure
